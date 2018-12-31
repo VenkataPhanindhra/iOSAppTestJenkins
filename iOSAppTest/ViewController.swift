@@ -13,10 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // PhanidhraChowdary
-      
-        print("PhanidhraChowdary")
-        // Do any additional setup after loading the view, typically from a nib.
+     
     }
 
 
